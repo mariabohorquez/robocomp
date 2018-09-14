@@ -1,2 +1,1 @@
-pip install pip
-pip install sphinx_rtd_theme
+sphinx_rtd_theme
