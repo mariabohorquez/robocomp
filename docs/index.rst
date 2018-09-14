@@ -14,7 +14,7 @@ The main documentation for the site is organized into a couple sections:
 .. _user-docs:
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: User Documentation
    
    ../doc/IDSL
@@ -28,12 +28,10 @@ The main documentation for the site is organized into a couple sections:
 .. _contributing:
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: About Read the Docs
 
    ../doc/using_github
    ../doc/contribute/contribute
    ../doc/packaging/*
 
-   design
-   Theme <https://sphinx-rtd-theme.readthedocs.io/en/latest/>
