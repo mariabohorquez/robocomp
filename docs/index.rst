@@ -34,4 +34,7 @@ The main documentation for the site is organized into a couple sections:
    ../doc/using_github
    ../doc/contribute/contribute
    ../doc/packaging/*
+  
+   design
+   Theme <https://sphinx-rtd-theme.readthedocs.io/en/latest/>
 
